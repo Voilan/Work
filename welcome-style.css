@@ -1,0 +1,14 @@
+* {
+    background-color: antiquewhite;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  width: 400;
+  height: 300;
+  background-color: white;
+}
